@@ -67,4 +67,4 @@ function submitStr() {
     };
     
     document.getElementById("result").innerHTML = telephoneCheck();
-}
+};
